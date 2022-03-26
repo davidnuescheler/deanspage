@@ -42,7 +42,7 @@
   :root {
       --link-color: #15beec;
       --link-hover-color: #05aedc;
-      --background-color: #000;
+      --background-color: red;
       --overlay-background-color: #ffffff20;
       --highlight-background-color: #ffffff40;
       --text-color: #fff;
